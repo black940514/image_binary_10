@@ -15,6 +15,7 @@
 - BCEWithLogitsLoss 손실함수에는 softmax함수가 이미 포함되어 있어서 모델 내부에서 softmax함수를 적용할 필요가 없음
 
 5. imgaug 활용
+- Imgaug 라이브러리 활용 
 - Custom Augmentation 정의
 - Custom Dataset 정의
 
